@@ -1,0 +1,2 @@
+#initalize
+n=100
